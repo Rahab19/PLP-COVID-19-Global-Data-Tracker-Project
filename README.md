@@ -18,9 +18,8 @@ This project analyzes the global COVID-19 dataset from Our World in Data. It foc
 
 ## How to Run the Project
 
-1. Open the Jupyter Notebook (`covid_analysis.ipynb`) in Jupyter or JupyterLite.
-2. Make sure you have internet access (the data is loaded directly from a URL).
-3. Run each cell step-by-step to view results and visualizations.
+1. Open the Jupyter Notebook (`covid_analysis.ipynb`) in Jupyter.
+2. Run each cell step-by-step to view results and visualizations.
 
 ```python
 pip install pandas matplotlib
